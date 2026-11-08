@@ -1,3 +1,6 @@
+
+Prerequisite:
+
 Download MySQL Connector/J 26.10.0 here: https://dev.mysql.com/downloads/connector/j/
 
   1. Select the latest version
